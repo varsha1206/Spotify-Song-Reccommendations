@@ -1,4 +1,4 @@
-# Spotify-Song-Reccommendations
+# Spotify-Song-Recommendations
 
 ## Introduction
 
